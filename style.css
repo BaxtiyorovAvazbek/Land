@@ -410,6 +410,8 @@ body {
 
 .container-S6 {
     display: flex;
+    width: 1349px;
+    margin: auto;
 }
 
 .S6-right-login {
