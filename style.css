@@ -395,6 +395,9 @@ body {
 .S5-center-img {
     width: 420px;
     margin-right: 12px;
+    /* padding-bottom: 150px;
+    padding-top: 120px; */
+    text-align: center;
 }
 
 .S5-right-img {
@@ -406,6 +409,18 @@ body {
     align-items: center;
     gap: 20px;
     margin-bottom: 59px;
+}
+
+.S5-center-parent {
+    background-image: url(/image/img/S5-center-img.png);
+    padding-bottom: 140px;
+    padding-top: 130px;
+    align-items: center;
+}
+
+.emblema2 {
+    height: 27px;
+    margin-left: 25px;
 }
 
 .container-S6 {
@@ -466,21 +481,9 @@ body {
 }
 
 .emblema {
-    height: 35px;
+    height: 27px;
     margin-left: 25px;
     margin-top: 20px;
-}
-
-.emblema3 {
-    width: 40px;
-    height: 35px;
-    margin-left: 25px;
-}
-
-.emblema4 {
-    width: 31px;
-    height: 35px;
-    margin-left: 25px;
 }
 
 .paragraph-S6 {
